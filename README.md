@@ -76,7 +76,7 @@ In order to locate and determine movement of TEs, we determined the overlap of T
 
 
 
-## Determining "Real" Movement of Transposable Elements
+## Determining Movement of Transposable Elements
 Next, the locations of the unique TE copies in the CB genome were adjusted for alignment position using alignment files in the shatter format, to determine if they had actually transposed, or if locational discrepancies were caused by alignment differences. 
 
 ### Files Needed
