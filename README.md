@@ -80,7 +80,8 @@ In order to locate and determine movement of TEs, we determined the overlap of T
 Next, the locations of the unique TE copies in the CB genome were adjusted for alignment position using alignment files in the shatter format, to determine if they had actually transposed, or if locational discrepancies were caused by alignment differences. 
 
 ### Files Needed
-- [ ] shatter alignment files
+- [ ] "shatter" alignment files
+    - these TSV files are generated from whole genome alignments originally made in axt format. columns in "shatter" file are as follows: genomeA base, genomeA position, genomeB base, genomeB position (e.g. A   1   A   1)
 - [ ] matching TEs .tsv file from TRACKING notebook
 
 ### Alignment Adjustment Steps
